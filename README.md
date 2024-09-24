@@ -15,3 +15,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - ceviche
 - tallarines
 - lomo saltado
+
+## Portfolio
+- BioMaster
+- Tim Rider
+- Ghost Hunter
