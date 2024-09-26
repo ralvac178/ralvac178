@@ -16,11 +16,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - tallarines
 - lomo saltado
 
-## Portfolio
-- BioMaster
-- Tim Rider
-- Ghost Hunter
-
 ## Music Genres
 - Rock
 - Pop
