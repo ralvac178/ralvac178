@@ -29,15 +29,5 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 -Bs. Aires
 -Bogotá
 
-## New Test
-This is a new test
-
-## Mi nueva rama
-This is my new rama
-
-## Mi segunda rama
-This is my new rama
-
-## Cambio en Master
 
 
