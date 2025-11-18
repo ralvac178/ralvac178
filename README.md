@@ -1,4 +1,4 @@
-# Hello! I'm Eggsy! Full Stack Developer
+# Hello! I'm Data Analyst and Unity programmer.
 
 ## About me
 Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
@@ -10,24 +10,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - c#
 - java
 - javaScript
-
-## Favorite Foods
-- ceviche
-- tallarines
-- lomo saltado
-
-## Music Genres
-- Rock
-- Pop
-- Rap
-
-## Test Fetch
--This is a fetch test
-
-## Places
--Lima
--Bs. Aires
--Bogotá
 
 
 
