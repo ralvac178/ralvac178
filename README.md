@@ -32,6 +32,7 @@ Problema de negocio: Reducir la pérdida de clientes.
 - Identificación de variables clave asociadas al churn (frecuencia de asistencia, duración de contrato, gasto adicional)
 
 🔎 Enfoque de negocio: Insights accionables para mejorar estrategias de retención.
+
 👉 Proyecto: https://ralvac178.github.io/Data_Analyst/Predicciones_de_churn_de_gym.html
 
 🔹 Análisis de Ventas de Videojuegos
@@ -44,6 +45,7 @@ Problema de negocio: Identificar tendencias y segmentos rentables del mercado.
 - Evaluación de desempeño por mercado
 
 🔎 Enfoque de negocio: Análisis de tendencias y rendimiento comercial para soporte estratégico.
+
 👉 Proyecto: https://ralvac178.github.io/Data_Analyst/Analisis_de_Ventas_de_Videojuegos.html
 
 🛠 Habilidades Técnicas
@@ -73,5 +75,7 @@ Competencias Clave:
 📫 Contacto
 
 📧 Email: ralvac24@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/roy-alva
+
 🌐 Portafolio: https://ralvac178.github.io/Data_Analyst/
